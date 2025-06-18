@@ -17,12 +17,7 @@ arr.shift()
 
 // slice ,splice
 
-console.log("A",arr);
 
-const mynewarr=arr.slice(1,3)
-console.log(mynewarr);
-
-console.log("B",arr);
 
 
 const arr5 = [1, 2, 3, 4, 5];
